@@ -1,1 +1,2 @@
 GitHub on populaarne versioonihalduse platvorm, mida kasutavad arendajad, meeskonnad ja organisatsioonid koodi koostööks ja haldamiseks.
+Tulevikus saan kasutada GitHubi projektide haldamiseks, tiimitööks ja oma programmide salvestamiseks.
